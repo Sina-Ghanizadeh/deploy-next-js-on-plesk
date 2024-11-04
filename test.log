@@ -1,0 +1,59 @@
+This is a test log entry.2024-11-04T09:18:51.532Z - Server error: listen EADDRINUSE: address already in use :::3012
+2024-11-04T09:20:29.470Z - Server listening at http://localhost:3013
+2024-11-04T09:21:05.806Z - Incoming request: GET /server.js
+2024-11-04T09:21:06.572Z - Incoming request: GET /server.js
+2024-11-04T09:21:07.207Z - Incoming request: GET /server.js
+2024-11-04T09:21:28.274Z - Incoming request: GET /server.js
+2024-11-04T09:21:29.038Z - Incoming request: GET /server.js
+2024-11-04T09:21:40.670Z - Incoming request: GET /server.js
+2024-11-04T09:21:41.349Z - Incoming request: GET /server.js
+2024-11-04T09:21:41.931Z - Incoming request: GET /server.js
+2024-11-04T09:22:38.741Z - Incoming request: GET /server.js
+2024-11-04T09:28:06.321Z - Next.js app is prepared, starting server...
+2024-11-04T09:28:06.325Z - > Server listening at http://localhost:3014
+2024-11-04T09:28:06.325Z - Server listening at http://localhost:3014
+2024-11-04T09:28:41.220Z - Incoming request: GET /server.js
+2024-11-04T09:31:03.388Z - Incoming request: GET /app.js
+2024-11-04T10:26:29.392Z - Incoming request: GET /server.js
+2024-11-04T10:26:30.984Z - Incoming request: GET /server.js
+2024-11-04T10:36:35.919Z - Incoming request: GET /server.js
+2024-11-04T10:37:01.953Z - Next.js app is prepared, starting server...
+2024-11-04T10:37:01.957Z - Server error: listen EADDRINUSE: address already in use :::3014
+2024-11-04T10:37:01.957Z - Server error:
+2024-11-04T10:37:49.519Z - Next.js app is prepared, starting server...
+2024-11-04T10:37:49.524Z - Server listening at http://localhost:3015
+2024-11-04T10:37:49.524Z - > Server listening at http://localhost:3015
+2024-11-04T10:37:58.208Z - Incoming request: GET /server.js
+2024-11-04T10:37:58.209Z - Change request Url: Old: [object Object] New: [object Object]
+2024-11-04T10:37:59.094Z - Incoming request: GET /server.js
+2024-11-04T10:37:59.094Z - Change request Url: Old: [object Object] New: [object Object]
+2024-11-04T10:38:08.863Z - Incoming request: GET /server.js
+2024-11-04T10:38:08.863Z - Change request Url: Old: [object Object] New: [object Object]
+2024-11-04T10:42:47.549Z - Next.js app is prepared, starting server...
+2024-11-04T10:42:47.553Z - Server error: listen EADDRINUSE: address already in use :::3015
+2024-11-04T10:42:47.553Z - Server error:
+2024-11-04T10:42:55.960Z - Incoming request: GET /server.js
+2024-11-04T10:42:55.961Z - Change request Url: Old: [object Object] New: [object Object]
+2024-11-04T10:43:49.529Z - Next.js app is prepared, starting server...
+2024-11-04T10:43:49.533Z - Server listening at http://localhost:3016
+2024-11-04T10:43:49.533Z - > Server listening at http://localhost:3016
+2024-11-04T10:44:35.394Z - Incoming request: GET /server.js
+2024-11-04T10:44:35.394Z - Change request Url: Old: /server.js New: /
+2024-11-04T10:44:35.471Z - Incoming request: GET /_next/static/media/4473ecc91f70f139-s.p.woff
+2024-11-04T10:44:35.471Z - Change request Url: Old: /_next/static/media/4473ecc91f70f139-s.p.woff New: /_next/static/media/4473ecc91f70f139-s.p.woff
+2024-11-04T10:44:35.499Z - Incoming request: GET /_next/static/css/51a8cbe2098ccc56.css
+2024-11-04T10:44:35.500Z - Change request Url: Old: /_next/static/css/51a8cbe2098ccc56.css New: /_next/static/css/51a8cbe2098ccc56.css
+2024-11-04T10:44:35.500Z - Change request Url: Old: /next.svg New: /next.svg
+2024-11-04T10:44:35.500Z - Incoming request: GET /next.svg
+2024-11-04T10:44:35.503Z - Incoming request: GET /_next/static/media/463dafcda517f24f-s.p.woff
+2024-11-04T10:44:35.503Z - Change request Url: Old: /_next/static/media/463dafcda517f24f-s.p.woff New: /_next/static/media/463dafcda517f24f-s.p.woff
+2024-11-04T10:44:35.504Z - Incoming request: GET /_next/static/chunks/pages/index-03ccc17d52b283c8.js
+2024-11-04T10:44:35.504Z - Change request Url: Old: /_next/static/chunks/pages/index-03ccc17d52b283c8.js New: /_next/static/chunks/pages/index-03ccc17d52b283c8.js
+2024-11-04T10:44:35.623Z - Incoming request: GET /vercel.svg
+2024-11-04T10:44:35.623Z - Change request Url: Old: /vercel.svg New: /vercel.svg
+2024-11-04T10:44:35.623Z - Incoming request: GET /globe.svg
+2024-11-04T10:44:35.623Z - Change request Url: Old: /globe.svg New: /globe.svg
+2024-11-04T10:44:35.625Z - Change request Url: Old: /file.svg New: /file.svg
+2024-11-04T10:44:35.625Z - Incoming request: GET /file.svg
+2024-11-04T10:44:35.625Z - Incoming request: GET /window.svg
+2024-11-04T10:44:35.625Z - Change request Url: Old: /window.svg New: /window.svg
